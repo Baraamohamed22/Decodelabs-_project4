@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="410" viewBox="0 0 850 410" role="img">
+<rect width="100%" height="100%" rx="0" fill="#ffffff"/>
+<text x="425.0" y="28.0" font-size="18" text-anchor="middle" fill="#0f172a">Revenue by Referral Source</text>
+<text x="110.0" y="90.4" font-size="12" text-anchor="end" fill="#334155">Instagram</text>
+<rect x="120" y="55.0" width="660.0" height="54.4" fill="#0f766e"/>
+<text x="788.0" y="90.4" font-size="11" text-anchor="start" fill="#334155">275,285</text>
+<text x="110.0" y="156.8" font-size="12" text-anchor="end" fill="#334155">Email</text>
+<rect x="120" y="121.4" width="627.7" height="54.4" fill="#0f766e"/>
+<text x="755.7" y="156.8" font-size="11" text-anchor="start" fill="#334155">261,809</text>
+<text x="110.0" y="223.2" font-size="12" text-anchor="end" fill="#334155">Google</text>
+<rect x="120" y="187.8" width="600.4" height="54.4" fill="#0f766e"/>
+<text x="728.4" y="223.2" font-size="11" text-anchor="start" fill="#334155">250,441</text>
+<text x="110.0" y="289.6" font-size="12" text-anchor="end" fill="#334155">Facebook</text>
+<rect x="120" y="254.2" width="600.4" height="54.4" fill="#0f766e"/>
+<text x="728.4" y="289.6" font-size="11" text-anchor="start" fill="#334155">250,411</text>
+<text x="110.0" y="356.0" font-size="12" text-anchor="end" fill="#334155">Referral</text>
+<rect x="120" y="320.6" width="543.8" height="54.4" fill="#0f766e"/>
+<text x="671.8" y="356.0" font-size="11" text-anchor="start" fill="#334155">226,816</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="410" viewBox="0 0 850 410" role="img">
+<rect width="100%" height="100%" rx="0" fill="#ffffff"/>
+<text x="425.0" y="28.0" font-size="18" text-anchor="middle" fill="#0f172a">Revenue by Product</text>
+<text x="110.0" y="78.0" font-size="12" text-anchor="end" fill="#334155">Chair</text>
+<rect x="120" y="55.0" width="660.0" height="35.4" fill="#2563eb"/>
+<text x="788.0" y="78.0" font-size="11" text-anchor="start" fill="#334155">195,620</text>
+<text x="110.0" y="125.5" font-size="12" text-anchor="end" fill="#334155">Printer</text>
+<rect x="120" y="102.4" width="660.0" height="35.4" fill="#2563eb"/>
+<text x="788.0" y="125.5" font-size="11" text-anchor="start" fill="#334155">195,613</text>
+<text x="110.0" y="172.9" font-size="12" text-anchor="end" fill="#334155">Laptop</text>
+<rect x="120" y="149.9" width="648.2" height="35.4" fill="#2563eb"/>
+<text x="776.2" y="172.9" font-size="11" text-anchor="start" fill="#334155">192,127</text>
+<text x="110.0" y="220.3" font-size="12" text-anchor="end" fill="#334155">Tablet</text>
+<rect x="120" y="197.3" width="629.5" height="35.4" fill="#2563eb"/>
+<text x="757.5" y="220.3" font-size="11" text-anchor="start" fill="#334155">186,569</text>
+<text x="110.0" y="267.7" font-size="12" text-anchor="end" fill="#334155">Monitor</text>
+<rect x="120" y="244.7" width="592.6" height="35.4" fill="#2563eb"/>
+<text x="720.6" y="267.7" font-size="11" text-anchor="start" fill="#334155">175,651</text>
+<text x="110.0" y="315.2" font-size="12" text-anchor="end" fill="#334155">Desk</text>
+<rect x="120" y="292.1" width="565.0" height="35.4" fill="#2563eb"/>
+<text x="693.0" y="315.2" font-size="11" text-anchor="start" fill="#334155">167,460</text>
+<text x="110.0" y="362.6" font-size="12" text-anchor="end" fill="#334155">Phone</text>
+<rect x="120" y="339.6" width="511.9" height="35.4" fill="#2563eb"/>
+<text x="639.9" y="362.6" font-size="11" text-anchor="start" fill="#334155">151,722</text>
+</svg>

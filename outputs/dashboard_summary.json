@@ -1,0 +1,22 @@
+{
+  "rows": 1200,
+  "columns": 14,
+  "date_start": "2023-01-01",
+  "date_end": "2025-06-30",
+  "total_revenue": 1264761.96,
+  "total_orders": 1200,
+  "total_units_sold": 3535,
+  "average_order_value": 1053.97,
+  "top_product": "Chair",
+  "top_product_revenue": 195620.11,
+  "top_payment_method": "Online",
+  "top_referral_source": "Instagram",
+  "best_month": {
+    "YearMonth": "2024-06",
+    "OrderCount": 53,
+    "TotalRevenue": 68068.54,
+    "AverageOrderValue": 1284.31,
+    "UnitsSold": 166
+  },
+  "chart_count": 5
+}
